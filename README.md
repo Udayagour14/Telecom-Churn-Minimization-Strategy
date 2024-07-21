@@ -3,8 +3,7 @@ Customer churn is a major concern with subscription-based companies. What is it,
 
 
                      
-                     
-        ![image alt](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/d96fa2bf5410023afc0b13ff86cdfc391dfe52df/5.-Customer.png)
+![image alt](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/d96fa2bf5410023afc0b13ff86cdfc391dfe52df/5.-Customer.png)
 
 
 
