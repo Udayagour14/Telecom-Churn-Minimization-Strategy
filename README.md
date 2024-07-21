@@ -51,8 +51,7 @@ from one data type to the other cannot be overstated.
 In this step, I checked for duplicate values, missing values, wrong formatting, and inconsistent formatting. The dataset
 was clean but checking for these gave me confidence in the dataset I needed to proceed to exploration.
 
-
-                  ![5.-Customer-churn-article](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/main/5.-Customer-churn-article.png)
+![image alt](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/main/5.-Customer-churn-article.png?raw=true)
              
 
 
