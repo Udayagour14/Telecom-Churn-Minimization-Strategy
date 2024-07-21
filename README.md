@@ -15,8 +15,8 @@ Churn rate is an important factor in the telecommunications industry. In most ar
 I followed the steps outlined below to arrive at the dashboard and recommendations.
 1. Preliminary research
 2. Data cleaning
-3. Data exploration ## **(visit powerbi file in my github)**
-4. Data visualization ## **(visit powerbi file in my github)**
+3. Data exploration   ##**(visit powerbi file in my github)**
+4. Data visualization   ##**(visit powerbi file in my github)**
 5. Key recommendations
 
 
