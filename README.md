@@ -72,7 +72,7 @@ Both month to month and year wise contract segments had similar reasons for quit
 I analysed the top reasons customers gave for leaving. Concernedly, many persons churned because charges might be high and service dissatisfaction.
 I dived deep into the top reasons for churn saw that fibre-optic internet service is a source of concern. Some improvements need to be made to the fibre-optic internet service.
 
-
+![image alt](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/e65b3a23cba1533c3d45877f8dc67c0d0219b68e/churn%20project.pdf)
 ### **4. Data visualization**
 After exploration, I had the task of arranging the insights gathered in a single-page dashboard. This was the most 
 interesting part of the analysis for me. I have files above.
