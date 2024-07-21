@@ -1,6 +1,10 @@
 # Telecom-Churn-Minimization-Strategy
 Customer churn is a major concern with subscription-based companies. What is it, and how can it be minimised? let dive into data.
-                  ![image](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/main/download.png)
+                     
+                     
+                     ![image](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/main/download.png)
+
+                     
 In this article, I write about how I analysed and visualised 1000 customer data of Maven Communications, a California-based telecommunications company and the advice I gave its senior executives on minimising churn.
 Every business wants to attract and retain customers. That’s how they grow. However, as in other aspects of life, businesses lose some customers and gain others. Customer churn is the percentage of customers who discontinue their subscriptions within a period. It can also be called churn rate or rate of attrition. On the other hand, growth rate is the percentage of new subscribers who joined a company in a given period.
 Churn rate is an important factor in the telecommunications industry. In most areas, many telecoms compete; thus, it is easy for subscribers to move from one company to another.
@@ -39,6 +43,7 @@ from one data type to the other cannot be overstated.
 
 In this step, I checked for duplicate values, missing values, wrong formatting, and inconsistent formatting. The dataset
 was clean but checking for these gave me confidence in the dataset I needed to proceed to exploration.
+
 
              ![image](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/main/5.-Customer-churn-article.png)
              
