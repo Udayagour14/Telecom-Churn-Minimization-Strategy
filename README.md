@@ -2,7 +2,7 @@
 Customer churn is a major concern with subscription-based companies. What is it, and how can it be minimised? let dive into data.
                      
                      
-                                      ![image](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/main/5.-Customer.png?)
+                                      ![5.-Customer](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/main/5.-Customer.png)
 
                      
 In this article, I write about how I analysed and visualised 1000 customer data of Maven Communications, a California-based telecommunications company and the advice I gave its senior executives on minimising churn.
@@ -45,7 +45,7 @@ In this step, I checked for duplicate values, missing values, wrong formatting, 
 was clean but checking for these gave me confidence in the dataset I needed to proceed to exploration.
 
 
-                  ![image](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/main/5.-Customer-churn-article.png?)
+                  ![5.-Customer-churn-article](https://github.com/Udayagour14/Telecom-Churn-Minimization-Strategy/blob/main/5.-Customer-churn-article.png)
              
 
 
